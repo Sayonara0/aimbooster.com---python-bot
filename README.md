@@ -2,7 +2,7 @@
 a simple python bot for aimbooster.com
 
 made with 1920x1080 resolution.
-different resolutions need to change location.
+different resolutions need to change region.
 
 
 **Edit:** line 19 >> `pic = pyautogui.screenshot(region=(x1,y1,a,b))`
